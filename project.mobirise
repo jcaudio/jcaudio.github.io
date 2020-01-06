@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JC Audio technical production",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -51,9 +51,15 @@
       "colorLink": "#424a4d",
       "underlineLink": false,
       "opacity": "63",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
+      "text": "We may use cookies to give you the best experience."
     },
-    "sitemapSwitcher": "on"
+    "sitemapSwitcher": "on",
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    }
   },
   "pages": {
     "index.html": {
@@ -2938,10 +2944,10 @@
         }
       ]
     },
-    "splashscreen.html": {
+    "screen.html": {
       "settings": {
         "meta_descr": "JC Audio - Unrivalled Technical Production",
-        "title": "JC Audio - Splash Screen",
+        "title": "JC Audio - Screen",
         "order": 1
       },
       "components": [
