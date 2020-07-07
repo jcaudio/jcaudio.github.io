@@ -3877,7 +3877,7 @@ section.lazy-placeholder:after {
   padding-top: 30px;
   padding-bottom: 60px;
   position: relative;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-s4694yTlgs .card {
   border-radius: 0px;
@@ -3910,6 +3910,9 @@ section.lazy-placeholder:after {
 }
 .cid-s4694yTlgs .card .panel-body {
   color: #767676;
+}
+.cid-s4694yTlgs .panel-text {
+  color: #232323;
 }
 .cid-s461hOPYV7 {
   padding-top: 15px;
